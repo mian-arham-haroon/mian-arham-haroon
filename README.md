@@ -1,9 +1,11 @@
-<h1 align="center">⚡ Mian Arham Haroon ⚡</h1>
-
-<h3 align="center">Data Analyst • Python Engineer • Future Data Engineer</h3>
+<h1 align="center">Mian Arham Haroon</h1>
 
 <p align="center">
-  Turning raw data into meaningful insights and building practical solutions through code.
+  <strong>Data Analyst • Python Developer • Data Engineering Learner</strong>
+</p>
+
+<p align="center">
+  Building practical data solutions, automation systems, and analytics projects with real-world impact.
 </p>
 
 <p align="center">
@@ -12,72 +14,75 @@
   </a>
   
   <a href="https://mian-arham-haroon.github.io/arham_portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   
   <a href="https://github.com/mian-arham-haroon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=mian-arham-haroon&style=for-the-badge&color=blue&label=Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=mian-arham-haroon&style=for-the-badge&color=blue&label=Profile+Views"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1000&color=00BFFF&center=true&width=900&lines=Python+Engineer+Building+Real+Projects;Data+Analyst+Focused+On+Business+Insights;Learning+Scalable+Data+Engineering;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00BFFF&center=true&width=900&lines=Turning+Data+Into+Business+Insights;Building+Python+Projects+That+Solve+Real+Problems;Learning+Scalable+Data+Engineering;Focused+On+Real+World+Execution"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# About Me
 
-I enjoy solving practical problems using **Python, SQL, and data-driven thinking**.
+I focus on solving real-world problems through **data analysis, Python development, and backend logic**.
 
-My main focus is building solutions that involve:
+Instead of collecting certificates or building tutorial projects, I prefer creating practical systems that improve technical ability and reflect actual engineering work.
 
-✔ Data Analysis  
-✔ Automation Scripts  
-✔ Dashboard Development  
-✔ Data Cleaning & Transformation  
-✔ Backend Logic Development  
-✔ Business Intelligence  
+My current direction is becoming stronger in:
 
-I prefer building **real projects**, improving engineering skills, and learning through practical execution instead of passive tutorials.
+- Data Analytics  
+- Python Engineering  
+- SQL Optimization  
+- Business Intelligence  
+- Automation Development  
+- Data Engineering  
+
+I believe strong technical skills come from **building repeatedly, debugging deeply, and solving real problems.**
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 ```text
-→ Advanced Python Development  
-→ SQL Optimization & Complex Queries  
-→ ETL Pipelines & Data Engineering  
-→ Business Analytics Dashboards  
-→ Real-world Freelancing Projects  
-→ Backend Development Fundamentals  
+• Advanced Python Development  
+• SQL Query Optimization  
+• ETL Pipeline Fundamentals  
+• Data Engineering Concepts  
+• Business Intelligence Dashboards  
+• Backend Development Practice  
+• Freelance Project Development  
 ```
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,javascript&theme=dark"/>
 </p>
 
-### Data Stack
+### Data & Analytics
 
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data_Cleaning-0066CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ETL-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data_Cleaning-0055CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-FF6600?style=for-the-badge"/>
 </p>
 
-### Tools
+### Development Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark"/>
@@ -85,52 +90,57 @@ I prefer building **real projects**, improving engineering skills, and learning 
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-| Project | Description |
-|----------|------------|
-| 🎬 Movie Recommendation System | Built recommendation engine using similarity models and machine learning concepts |
-| 🏅 Olympic Data Analysis | Performed historical Olympic dataset analysis and visualized trends |
-| 📊 Business Analytics Dashboard | Created dashboards and KPI reporting systems |
-| 🧹 Data Cleaning Projects | Processed messy datasets and transformed raw structured data |
-| 🌐 Portfolio Website | Developed personal portfolio to showcase technical projects |
+| Project | Description | Stack |
+|----------|------------|--------|
+| Movie Recommendation System | Built recommendation engine using similarity algorithms and machine learning concepts | Python, Pandas, Scikit-learn |
+| Olympic Data Analysis | Analyzed historical Olympic datasets and discovered participation & medal trends | Python, Pandas, Matplotlib |
+| Business Analytics Dashboard | Built dashboards for KPI reporting and business performance tracking | Power BI, SQL |
+| Data Cleaning Projects | Processed raw messy datasets and transformed them into structured data | Python, Pandas |
+| Portfolio Website | Developed portfolio website to showcase technical work and project case studies | HTML, CSS, GitHub Pages |
 
 ---
 
-# 💡 Core Skills
+# Core Technical Skills
 
 ```text
 Python Development
 Data Analysis
 SQL Query Writing
-Data Cleaning
+Data Cleaning & Transformation
 Exploratory Data Analysis (EDA)
+Power BI Dashboard Development
 Business Intelligence
-Power BI Dashboarding
 Automation Scripting
 Backend Logic Development
 Data Visualization
+Problem Solving
 ```
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Activity
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mian-arham-haroon&theme=github_dark"/>
 </p>
 
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mian-arham-haroon&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mian-arham-haroon&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mian-arham-haroon&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mian-arham-haroon&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mian-arham-haroon&theme=github-dark-blue&hide_border=true"/>
@@ -141,35 +151,50 @@ Data Visualization
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mian-arham-haroon/mian-arham-haroon/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/mian-arham-haroon/mian-arham-haroon/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 📚 Currently Learning
+# What I Am Learning
+
+Currently improving my skills in:
 
 - Data Engineering Architecture  
-- Advanced Python Patterns  
-- Production-level SQL Systems  
-- ETL Workflow Automation  
-- Scalable Backend Development  
-- Large Dataset Processing  
+- Production-level Python Development  
+- ETL Pipeline Design  
+- Advanced SQL Systems  
+- Scalable Data Processing  
+- Backend System Development  
 
 ---
 
-# 🌍 2026 Mission
+# Professional Goal
 
 ```text
-Build real products
-Become excellent in Python engineering
-Master Data Engineering
-Work with global clients
-Create production-level systems
-Keep improving every single month
+Build production-ready technical skills
+Master Python engineering
+Become highly skilled in data engineering
+Work on meaningful real-world projects
+Create systems that solve practical business problems
+Continuously improve technical depth
+```
+
+---
+
+# Development Philosophy
+
+```text
+Build more
+Debug deeper
+Understand systems
+Focus on practical work
+Improve technical depth
+Stay consistent
 ```
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
 </p>
